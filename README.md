@@ -1,5 +1,5 @@
 # 快速上手
-
+[![CI](https://github.com/zzc7211/vuepress-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/zzc7211/vuepress-demo/actions/workflows/ci.yml)
 ## 依赖环境
 
 - [Node.js v12+](https://nodejs.org/)
